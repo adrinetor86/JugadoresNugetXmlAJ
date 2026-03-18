@@ -10,6 +10,15 @@
     <PackageTags>jacek;adrian;tajamar;jugadores;</PackageTags>
     <PackAsTool>False</PackAsTool>
     <Description>Un proyecto muy bien elaborado por manos celestiales</Description>
+    <Version>3.0.0</Version>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="jugadores.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="jugadores.xml" />
+  </ItemGroup>
 
 </Project>

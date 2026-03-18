@@ -13,7 +13,7 @@ public class RepositoryJugadores
         //EL NAMESPACE DEL PROYECTO Y, SI ESTUVIERA EN UNA CARPETA
         //TAMBIEN, EL NOMBRE DE LA CARPETA Y EL FILE NAME
         
-        string resourceName="JugadoresNugetXmlAJ.Jugadores.xml";
+        string resourceName="JugadoresNugetXmlAJ.jugadores.xml";
         //LOS DATOS SE RECUPERAN MEDIANTE STREAM
         Stream stream = GetType().Assembly.GetManifestResourceStream(resourceName);
         //EL FICHERO XML SE ALMACENA EN DOCUMENT MEDIANTE LOAD
