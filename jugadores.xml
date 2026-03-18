@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <jugador>
+         <numero>1</numero>
+         <nombre>Keylor Navas</nombre>
+         <posicion>Portero</posicion>
+         <edad>28</edad>
+         <imagen>https://as01.epimg.net/us/imagenes/2019/10/13/futbol/1571000082_277473_1571000359_noticia_normal_recorte1.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>4</numero>
+         <nombre>Sergio Ramos</nombre>
+         <posicion>Defensa central</posicion>
+         <edad>29</edad>
+         <imagen>https://as.com/tikitakas/imagenes/2019/02/23/portada/1550919555_521513_1550919850_noticia_normal.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>4</numero>
+         <nombre>Gravesen</nombre>
+         <posicion>La Gravesinha</posicion>
+         <edad>29</edad>
+         <imagen>https://media.vandalsports.com/i/640x360/9-2017/2017922121441_1.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>12</numero>
+         <nombre>Marcelo</nombre>
+         <posicion>Lateral Izquierdo</posicion>
+         <edad>27</edad>
+         <imagen>https://okdiario.com/img/2018/12/20/marcelo-navidad-interior-655x368.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>15</numero>
+         <nombre>Guardiola</nombre>
+         <posicion>Perdedor nato</posicion>
+         <edad>57</edad>
+         <imagen>https://pbs.twimg.com/media/HDpWzkQXwAAi038.jpg</imagen>
+     </jugador>	 
+     <jugador>
+         <numero>6</numero>
+         <nombre>Royston Drenthe</nombre>
+         <posicion>Lateral Izquierdo</posicion>
+         <edad>27</edad>
+         <imagen>https://media.vandalsports.com/m/9-2017/201792212836_2.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>18</numero>
+         <nombre>Secretario</nombre>
+         <posicion>Lateral derecho</posicion>
+         <edad>27</edad>
+         <imagen>https://media.vandalsports.com/m/9-2017/2017922121033_5.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>6</numero>
+         <nombre>Hamit Altintop</nombre>
+         <posicion>Ni su entrenador la sabe...</posicion>
+         <edad>27</edad>
+         <imagen>https://media.vandalsports.com/m/9-2017/2017922121258_5.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>16</numero>
+         <nombre>Pablo García</nombre>
+         <posicion>Medio asesino</posicion>
+         <edad>27</edad>
+         <imagen>https://as.com/futbol/imagenes/2005/09/07/mas_futbol/1126044005_740215_0000000001_noticia_grande.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>15</numero>
+         <nombre>Carvajal</nombre>
+         <posicion>Lateral Derecho</posicion>
+         <edad>23</edad>
+         <imagen>https://www.realmadrid.com/img/vertical_380px/carvajal_380x501_20190923060815.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>2</numero>
+         <nombre>Varane</nombre>
+         <posicion>Defensa central</posicion>
+         <edad>22</edad>
+         <imagen>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/11/06/15415134518299.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>8</numero>
+         <nombre>Kross</nombre>
+         <posicion>Medio Centro</posicion>
+         <edad>25</edad>
+         <imagen>https://static2.abc.es/media/deportes/2019/08/05/kroos-kIH--620x349@abc.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>19</numero>
+         <nombre>Modric</nombre>
+         <posicion>Volante Derecho</posicion>
+         <edad>30</edad>
+         <imagen>https://www.realmadrid.com/img/horizontal_940px/modric_1vc6946_20191015082102.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>10</numero>
+         <nombre>James</nombre>
+         <posicion>Volante Izquierdo</posicion>
+         <edad>24</edad>
+         <imagen>https://www.futbolred.com/files/article_main/uploads/2019/09/14/5d7cf2352d47d.jpeg</imagen>
+     </jugador>
+     <jugador>
+         <numero>22</numero>
+         <nombre>Isco</nombre>
+         <posicion>Centrocampista</posicion>
+         <edad>23</edad>
+         <imagen>https://diariomadridista.okdiario.com/img/2019/10/17/tottenham-cesion-isco-interior-1-655x368.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>11</numero>
+         <nombre>Bale</nombre>
+         <posicion>Extremo Golfista</posicion>
+         <edad>28</edad>
+         <imagen>https://as.com/futbol/imagenes/2017/11/09/internacional/1510212018_708014_1510212294_noticia_normal.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>9</numero>
+         <nombre>Benzema</nombre>
+         <posicion>Delantero Centro</posicion>
+         <edad>27</edad>
+         <imagen>https://as.com/futbol/imagenes/2017/11/09/internacional/1510212018_708014_1510212294_noticia_normal.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>7</numero>
+         <nombre>Ronaldo</nombre>
+         <posicion>Extremo Izquierdo</posicion>
+         <edad>30</edad>
+         <imagen>https://en.as.com/argentina/imagenes/2019/06/01/futbol/1559347538_227480_1559347586_noticia_normal.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>1</numero>
+         <nombre>Ter Stegen</nombre>
+         <posicion>Portero</posicion>
+         <edad>28</edad>
+         <imagen>https://www.aupaathletic.com/comun/jugador_fotos/foto_jugador-106.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>3</numero>
+         <nombre>Gerardo Piqué Bernabeu</nombre>
+         <posicion>Defensa central</posicion>
+         <edad>28</edad>
+     </jugador>
+     <jugador>
+         <numero>2</numero>
+         <nombre>Mathieu</nombre>
+         <posicion>Lateral Izquierdo</posicion>
+         <edad>23</edad>
+         <imagen>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/J%C3%A9r%C3%A9my_Mathieu_18102014_%28cropped%29.jpg/250px-J%C3%A9r%C3%A9my_Mathieu_18102014_%28cropped%29.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>6</numero>
+         <nombre>Amunike</nombre>
+         <posicion>Lateral Derecho</posicion>
+         <edad>31</edad>
+         <imagen>https://cope-cdnmed.agilecontent.com/resources/jpg/0/9/1531395122790.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>15</numero>
+         <nombre>Rochemback</nombre>
+         <posicion>Mediocentro</posicion>
+         <edad>22</edad>
+         <imagen>https://as01.epimg.net/futbol/imagenes/2017/09/27/primera/1506501533_123725_1506501608_sumario_normal.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>5</numero>
+         <nombre>Chygrynskiy</nombre>
+         <posicion>Defensa central</posicion>
+         <edad>30</edad>
+         <imagen>https://as.com/futbol/imagenes/2017/06/27/mas_futbol/1498578431_883779_1498578525_noticia_normal.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>8</numero>
+         <nombre>Iniesta</nombre>
+         <posicion>Volante Derecho</posicion>
+         <edad>30</edad>
+         <imagen>https://as.com/futbol/imagenes/2017/06/27/mas_futbol/1498578431_883779_1498578525_noticia_normal.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>11</numero>
+         <nombre>Neymar</nombre>
+         <posicion>Volante Izquierdo</posicion>
+         <edad>24</edad>
+         <imagen>https://as.com/futbol/imagenes/2017/06/27/mas_futbol/1498578431_883779_1498578525_noticia_normal.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>10</numero>
+         <nombre>Messi</nombre>
+         <posicion>Delantero total</posicion>
+         <edad>28</edad>
+         <imagen>https://i.ytimg.com/vi/m6pKCg-Tx-g/maxresdefault.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>17</numero>
+         <nombre>Bogarde</nombre>
+         <posicion>Extremo Derecho</posicion>
+         <edad>26</edad>
+         <imagen>https://as.com/futbol/imagenes/2017/06/27/mas_futbol/1498578431_883779_1498578525_noticia_normal.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>9</numero>
+         <nombre>Luis Suarez</nombre>
+         <posicion>Delantero Centro</posicion>
+         <edad>30</edad>
+         <imagen>https://as.com/futbol/imagenes/2017/06/27/mas_futbol/1498578431_883779_1498578525_noticia_normal.jpg</imagen>
+     </jugador>
+     <jugador>
+         <numero>7</numero>
+         <nombre>Griezmann</nombre>
+         <posicion>Extremo Izquierdo</posicion>
+         <edad>28</edad>
+         <imagen>https://as.com/futbol/imagenes/2017/06/27/mas_futbol/1498578431_883779_1498578525_noticia_normal.jpg</imagen>
+     </jugador>
+ </root>

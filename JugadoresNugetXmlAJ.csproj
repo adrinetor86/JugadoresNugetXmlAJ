@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Jugadores Xml Jacek</Title>
+    <Authors>$(AssemblyName),Jacek,Adrian,Jugadores,Tajamar</Authors>
+    <PackageTags>jacek;adrian;tajamar;jugadores;</PackageTags>
+    <PackAsTool>False</PackAsTool>
+    <Description>Un proyecto muy bien elaborado por manos celestiales</Description>
+  </PropertyGroup>
+
+</Project>
